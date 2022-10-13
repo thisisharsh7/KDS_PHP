@@ -8,6 +8,7 @@
 </head>
 <body>
     <p>The combination of operands and operators is called an expression</p>
+    <p>Operators are used to perform various operation on operands</p>
 </body>
 </html>
 
